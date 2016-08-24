@@ -1,0 +1,165 @@
+\documentclass[twocolumn]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[Glenn]{fncychap}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{verbatim}
+\usepackage{CJK}
+\usepackage{fancyhdr}
+
+\title{Team Reference Document for ACM-ICPC}
+\author{UESTC murasame}
+
+\setlength{\columnsep}{0.8cm}
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+  numbers=left,
+  numberstyle=\sf\footnotesize,
+  frame=leftline,
+  language=c++,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\scriptsize\ttfamily},
+  numberstyle=\scriptsize\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true
+  tabsize=3
+}
+
+\begin{document}
+
+\pagestyle{fancy}
+\fancyhead[L]{University Of Electronic Science And Technology Of China}
+\fancyhead[R]{\thepage}
+\fancyfoot{}\section{ComputationalGeometry}
+\subsection{2D}
+\lstinputlisting{ComputationalGeometry/D2.cpp}
+\subsection{3D}
+\lstinputlisting{ComputationalGeometry/D3.cpp}
+\section{DataStructure}
+\subsection{BIT}
+\lstinputlisting{DataStructure/BIT.cpp}
+\subsection{Segment Tree}
+\lstinputlisting{DataStructure/SegmentTree.cpp}
+\subsection{Scanning Line}
+\lstinputlisting{DataStructure/ScanningLine.cpp}
+\subsection{2D SegmentTree}
+\lstinputlisting{DataStructure/2DSegmentTree.cpp}
+\subsection{SBT}
+\lstinputlisting{DataStructure/SBT.cpp}
+\subsection{Splay}
+\lstinputlisting{DataStructure/Splay.cpp}
+\subsection{Persistent Binary Tree}
+\lstinputlisting{DataStructure/PersistentBinaryTrees.cpp}
+\subsection{LCT}
+\lstinputlisting{DataStructure/LCT.cpp}
+\subsection{Union Set}
+\lstinputlisting{DataStructure/UnionSet.cpp}
+\subsection{Cdq}
+\lstinputlisting{DataStructure/Cdq.cpp}
+\subsection{Binary Search}
+\lstinputlisting{DataStructure/BinarySearch.cpp}
+\subsection{Dominator Tree}
+\lstinputlisting{DataStructure/DominatorTree.cpp}
+\section{DP}
+\subsection{2D-LIS}
+\lstinputlisting{DP/2D-LIS.cpp}
+\subsection{2D-RMQ}
+\lstinputlisting{DP/2D-RMQ.cpp}
+\subsection{LCA}
+\lstinputlisting{DP/LCA.cpp}
+\subsection{Steiner Tree}
+\lstinputlisting{DP/S.cpp}
+\section{Graph}
+\subsection{KM}
+\lstinputlisting{Graph/KM.cpp}
+\subsection{Hungary}
+\lstinputlisting{Graph/Hungary.cpp}
+\subsection{HK}
+\lstinputlisting{Graph/HK.cpp}
+\subsection{2-SAT}
+\lstinputlisting{Graph/2-SAT.cpp}
+\subsection{SAP}
+\lstinputlisting{Graph/SAP.cpp}
+\subsection{MCMF}
+\lstinputlisting{Graph/MCMF.cpp}
+\subsection{BCC}
+\lstinputlisting{Graph/BCC.cpp}
+\subsection{SCC}
+\lstinputlisting{Graph/SCC.cpp}
+\subsection{DLX}
+\lstinputlisting{Graph/DLX.cpp}
+\subsection{Spanning Tree On Directed Graph}
+\lstinputlisting{Graph/SpanningTreeOnDirectedGraph.cpp}
+\subsection{Blossom}
+\lstinputlisting{Graph/Blossom.cpp}
+\subsection{Clique}
+\lstinputlisting{Graph/clique.cpp}
+\subsection{Count The Number Of Spanning Tree}
+\lstinputlisting{Graph/CountTheNumberOfSpanningTree.cpp}
+\section{Math}
+\subsection{Cantor}
+\lstinputlisting{Math/Cantor.cpp}
+\subsection{FastWalsh–Hadamard Transform}
+\lstinputlisting{Math/FastWalsh–HadamardTransform.cpp}
+\subsection{FFT}
+\lstinputlisting{Math/FFT.cpp}
+\subsection{Fibonacci Sequence}
+\lstinputlisting{Math/fib.cpp}
+\subsection{Integer Partition}
+\lstinputlisting{Math/IntegerPartition.cpp}
+\subsection{Miller-Rabin}
+\lstinputlisting{Math/Miller-Rabin.cpp}
+\subsection{Mul Mod}
+\lstinputlisting{Math/MulMod.cpp}
+\subsection{NTT}
+\lstinputlisting{Math/NTT.cpp}
+\subsection{Pollard-Rho}
+\lstinputlisting{Math/Pollard-Rho.cpp}
+\subsection{Primitive Root}
+\lstinputlisting{Math/PrimitiveRoot.cpp}
+\subsection{Romberg}
+\lstinputlisting{Math/Romberg.cpp}
+\section{nsqrt(n)}
+\subsection{example}
+\lstinputlisting{nsqrt(n)/example1.cpp}
+\section{String}
+\subsection{KMP}
+\lstinputlisting{String/KMP.cpp}
+\subsection{ExKMP}
+\lstinputlisting{String/ExKMP.cpp}
+\subsection{Suffix Array}
+\lstinputlisting{String/SuffixArray.cpp}
+\subsection{Aho-Corasick Automaton}
+\lstinputlisting{String/Aho-CorasickAutomaton.cpp}
+\subsection{Minimum Representation}
+\lstinputlisting{String/MinimumRepresentation.cpp}
+\subsection{Manacher}
+\lstinputlisting{String/Manacher.cpp}
+\subsection{Palindromic Tree}
+\lstinputlisting{String/PalindromicTree.cpp}
+\subsection{SAM}
+\lstinputlisting{String/SAM.cpp}
+\section{Tree}
+\subsection{Divide And Conquer Tree}
+\lstinputlisting{Tree/DivideAndConquerTree.cpp}
+\subsection{Heavy-Light Decomposition}
+\lstinputlisting{Tree/HLD.cpp}
+\section{Others}
+\subsection{bash Script}
+\lstinputlisting{Others/bashScript.cpp}
+\subsection{tool}
+\lstinputlisting{Others/tool.cpp}
+\subsection{java}
+\lstinputlisting{Others/java.cpp}
+\subsection{Minimum Representation}
+\lstinputlisting{Others/MinimumRepresentation.cpp}
+\end{document}

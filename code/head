@@ -1,0 +1,42 @@
+\documentclass[twocolumn]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[Glenn]{fncychap}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{verbatim}
+\usepackage{CJK}
+\usepackage{fancyhdr}
+
+\title{Team Reference Document for ACM-ICPC}
+\author{UESTC murasame}
+
+\setlength{\columnsep}{0.8cm}
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+  numbers=left,
+  numberstyle=\sf\footnotesize,
+  frame=leftline,
+  language=c++,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\scriptsize\ttfamily},
+  numberstyle=\scriptsize\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true
+  tabsize=3
+}
+
+\begin{document}
+
+\pagestyle{fancy}
+\fancyhead[L]{University Of Electronic Science And Technology Of China}
+\fancyhead[R]{\thepage}
+\fancyfoot{}

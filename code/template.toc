@@ -1,0 +1,66 @@
+\contentsline {section}{\numberline {1}ComputationalGeometry}{1}
+\contentsline {subsection}{\numberline {1.1}2D}{1}
+\contentsline {subsection}{\numberline {1.2}3D}{5}
+\contentsline {section}{\numberline {2}DataStructure}{5}
+\contentsline {subsection}{\numberline {2.1}BIT}{5}
+\contentsline {subsection}{\numberline {2.2}Segment Tree}{5}
+\contentsline {subsection}{\numberline {2.3}Scanning Line}{5}
+\contentsline {subsection}{\numberline {2.4}2D SegmentTree}{6}
+\contentsline {subsection}{\numberline {2.5}SBT}{7}
+\contentsline {subsection}{\numberline {2.6}Splay}{7}
+\contentsline {subsection}{\numberline {2.7}Persistent Binary Tree}{9}
+\contentsline {subsection}{\numberline {2.8}LCT}{10}
+\contentsline {subsection}{\numberline {2.9}Union Set}{11}
+\contentsline {subsection}{\numberline {2.10}Cdq}{11}
+\contentsline {subsection}{\numberline {2.11}Binary Search}{11}
+\contentsline {subsection}{\numberline {2.12}Dominator Tree}{12}
+\contentsline {section}{\numberline {3}DP}{13}
+\contentsline {subsection}{\numberline {3.1}2D-LIS}{13}
+\contentsline {subsection}{\numberline {3.2}2D-RMQ}{13}
+\contentsline {subsection}{\numberline {3.3}LCA}{13}
+\contentsline {section}{\numberline {4}Graph}{14}
+\contentsline {subsection}{\numberline {4.1}KM}{14}
+\contentsline {subsection}{\numberline {4.2}Hungary}{14}
+\contentsline {subsection}{\numberline {4.3}HK}{14}
+\contentsline {subsection}{\numberline {4.4}2-SAT}{14}
+\contentsline {subsection}{\numberline {4.5}SAP}{15}
+\contentsline {subsection}{\numberline {4.6}MCMF}{15}
+\contentsline {subsection}{\numberline {4.7}BCC}{16}
+\contentsline {subsection}{\numberline {4.8}SCC}{17}
+\contentsline {subsection}{\numberline {4.9}DLX}{17}
+\contentsline {subsection}{\numberline {4.10}Spanning Tree On Directed Graph}{17}
+\contentsline {subsection}{\numberline {4.11}Blossom}{18}
+\contentsline {subsection}{\numberline {4.12}Clique}{19}
+\contentsline {subsection}{\numberline {4.13}Count The Number Of Spanning Tree}{19}
+\contentsline {section}{\numberline {5}Math}{19}
+\contentsline {subsection}{\numberline {5.1}Cantor}{19}
+\contentsline {subsection}{\numberline {5.2}FastWalsh–Hadamard Transform}{19}
+\contentsline {subsection}{\numberline {5.3}FFT}{19}
+\contentsline {subsection}{\numberline {5.4}Fibonacci Sequence}{19}
+\contentsline {subsection}{\numberline {5.5}Integer Partition}{20}
+\contentsline {subsection}{\numberline {5.6}Miller-Rabin}{20}
+\contentsline {subsection}{\numberline {5.7}Mul Mod}{20}
+\contentsline {subsection}{\numberline {5.8}NTT}{20}
+\contentsline {subsection}{\numberline {5.9}Pollard-Rho}{20}
+\contentsline {subsection}{\numberline {5.10}Primitive Root}{20}
+\contentsline {subsection}{\numberline {5.11}Romberg}{21}
+\contentsline {section}{\numberline {6}nsqrt(n)}{21}
+\contentsline {subsection}{\numberline {6.1}example1}{21}
+\contentsline {section}{\numberline {7}String}{21}
+\contentsline {subsection}{\numberline {7.1}KMP}{21}
+\contentsline {subsection}{\numberline {7.2}ExKMP}{21}
+\contentsline {subsection}{\numberline {7.3}Suffix Array}{21}
+\contentsline {subsection}{\numberline {7.4}Aho-Corasick Automaton}{22}
+\contentsline {subsection}{\numberline {7.5}Minimum Representation}{22}
+\contentsline {subsection}{\numberline {7.6}Manacher}{22}
+\contentsline {subsection}{\numberline {7.7}Palindromic Tree}{23}
+\contentsline {subsection}{\numberline {7.8}SAM}{23}
+\contentsline {section}{\numberline {8}Tree}{24}
+\contentsline {subsection}{\numberline {8.1}Divide And Conquer Tree}{24}
+\contentsline {subsection}{\numberline {8.2}Heavy-Light Decomposition}{24}
+\contentsline {section}{\numberline {9}Others}{25}
+\contentsline {subsection}{\numberline {9.1}bash Script}{25}
+\contentsline {subsection}{\numberline {9.2}integer120}{25}
+\contentsline {subsection}{\numberline {9.3}tool}{25}
+\contentsline {subsection}{\numberline {9.4}java}{26}
+\contentsline {subsection}{\numberline {9.5}Minimum Representation}{26}
